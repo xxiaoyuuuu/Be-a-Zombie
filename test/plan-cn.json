@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-17",
+  "lang": "zh",
+  "title": "僵尸的一天 · 11/17 周二",
+  "finish": "21:10",
+  "blocks": [
+    {"id": "b1", "start": "14:40", "minutes": 10, "kind": "work", "emoji": "🧺", "name": "衣服丢进洗衣机", "brains": 1, "act": "第一幕 · 🌤 午后出土啃作业"},
+    {"id": "b2", "start": "14:50", "minutes": 15, "kind": "work", "emoji": "📂", "name": "打开作业列要点", "brains": 2, "act": "第一幕 · 🌤 午后出土啃作业"},
+    {"id": "b3", "start": "15:05", "minutes": 50, "kind": "work", "emoji": "📝", "name": "写作业前半", "brains": 3, "act": "第一幕 · 🌤 午后出土啃作业"},
+    {"id": "b4", "start": "15:55", "minutes": 10, "kind": "treat", "emoji": "🎁", "name": "喝水伸懒腰", "act": "第一幕 · 🌤 午后出土啃作业"},
+    {"id": "b5", "start": "16:05", "minutes": 10, "kind": "work", "emoji": "🧺", "name": "晾衣服", "brains": 1, "act": "第一幕 · 🌤 午后出土啃作业"},
+    {"id": "b6", "start": "16:15", "minutes": 25, "kind": "break", "emoji": "☕", "name": "出门走一圈"},
+    {"id": "b7", "start": "16:40", "minutes": 50, "kind": "work", "emoji": "📝", "name": "写作业后半", "brains": 3, "act": "第二幕 · 🌇 把作业一口吞掉"},
+    {"id": "b8", "start": "17:30", "minutes": 10, "kind": "treat", "emoji": "🎁", "name": "听一首歌", "act": "第二幕 · 🌇 把作业一口吞掉"},
+    {"id": "b9", "start": "17:40", "minutes": 25, "kind": "work", "emoji": "📤", "name": "检查并提交作业", "brains": 2, "act": "第二幕 · 🌇 把作业一口吞掉"},
+    {"id": "b10", "start": "18:05", "minutes": 20, "kind": "work", "emoji": "📮", "name": "回 4 封邮件", "brains": 1, "act": "第二幕 · 🌇 把作业一口吞掉"},
+    {"id": "b11", "start": "18:25", "minutes": 45, "kind": "meal", "emoji": "🍚", "name": "晚饭"},
+    {"id": "b12", "start": "19:10", "minutes": 15, "kind": "work", "emoji": "📞", "name": "给妈妈打电话", "brains": 1, "act": "第三幕 · 🌙 月下备组会"},
+    {"id": "b13", "start": "19:25", "minutes": 15, "kind": "work", "emoji": "🗂", "name": "列 slides 大纲", "brains": 2, "act": "第三幕 · 🌙 月下备组会"},
+    {"id": "b14", "start": "19:40", "minutes": 50, "kind": "work", "emoji": "🖥", "name": "做 slides 主体页", "brains": 3, "act": "第三幕 · 🌙 月下备组会"},
+    {"id": "b15", "start": "20:30", "minutes": 10, "kind": "treat", "emoji": "🎁", "name": "吃点小零食", "act": "第三幕 · 🌙 月下备组会"},
+    {"id": "b16", "start": "20:40", "minutes": 30, "kind": "work", "emoji": "🎤", "name": "补图、顺讲一遍", "brains": 2, "act": "第三幕 · 🌙 月下备组会"}
+  ],
+  "buried": [
+    "🛒 去超市 → 埋到明天组会后",
+    "🧹 整理房间 → 埋到明天",
+    "📖 读一篇论文 → 埋到明天"
+  ]
+}
